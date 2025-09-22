@@ -37,7 +37,7 @@ As illustrated below, these images are distinct from generic, fine-grained, or e
 
 Our framework integrates an LLM, a Vision-Language Model (VLM), and a spectral encoder to achieve nuanced, context-aware classification. The LLM generates rich semantic prompts that guide GLIP for object detection and SAM for zero-shot segmentation. These visual features are then fused with spectral data for a comprehensive analysis.
 
-![Framework Overview](./misc/figure2_02.png)
+![Framework Overview](./misc/figure2_01.png)
 *Overview of the proposed framework. An LLM (e.g., GPT-4o, Claude-3.5) generates a knowledge-rich prompt to guide GLIP and SAM for precise object segmentation. Visual and spectral features are then fused for final classification. *
 
 ---
