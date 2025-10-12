@@ -1,4 +1,4 @@
-# LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification
+# [LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification](https://authors.elsevier.com/a/1lua03BBjKvZ2o)
 
 
 This repository contains the official implementation for the paper: **LLM-Led Vision-Spectral Fusion: A Zero-Shot Approach to Temporal Fruit Image Classification**.
@@ -56,5 +56,23 @@ The dataset will be made available soon. Please stay tuned for the download link
 ## Usage
 
 Code coming soon - installation instructions will be provided.
+
+---
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+```bibtex
+@article{WU2026108155,
+title = {LLM-led vision-spectral fusion: A zero-shot approach to temporal fruit image classification},
+journal = {Neural Networks},
+volume = {194},
+pages = {108155},
+year = {2026},
+issn = {0893-6080},
+doi = {[https://doi.org/10.1016/j.neunet.2025.108155](https://doi.org/10.1016/j.neunet.2025.108155)},
+url = {[https://www.sciencedirect.com/science/article/pii/S0893608025010354](https://www.sciencedirect.com/science/article/pii/S0893608025010354)},
+author = {Huyu Wu and Bowen Jia and Xue–Ming Yuan}
+}
 
 ---
